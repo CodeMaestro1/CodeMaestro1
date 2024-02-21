@@ -6,7 +6,7 @@
 ### 🚀 Constantinos Pisimisis - GitHub Profile 🚀
 
 #### About Me
-- 🎓 **Education:** Undergrad student at [Technical University of Crete](www.tuc.gr) 🏛️
+- 🎓 **Education:** Undergrad student at [Technical University of Crete](https://www.ece.tuc.gr/en/home) 🏛️
 - 👨‍💻 **Fields:** CTF Enthusiast, Tinkerer 🛠️
 
 ---
