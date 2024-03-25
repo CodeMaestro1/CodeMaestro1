@@ -28,3 +28,12 @@
 ---
 
 🌟 Feel free to explore my repositories, and let's connect to code something amazing together! 🌟
+
+<div align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeMaestro1&theme=solarized" alt="Profile Details">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodeMaestro1&theme=solarized" alt="Repos Per Language">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodeMaestro1&theme=solarized" alt="Stats">
+</div>
+
+
+
